@@ -71,7 +71,7 @@ Before running the game, make sure you have:
 
 ```bash
 # 1. Clone the repository (or download the files)
-git clone https://github.com/your-username/number-guessing-game.git
+git clone https://github.com/smritisharma2924/number-guessing-game.git
 cd number-guessing-game
 
 # 2. Compile the code using gcc
